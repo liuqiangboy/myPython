@@ -1,0 +1,6 @@
+.idea
+venv
+*.xlsx
+keyFrames
+res
+*.pyc
